@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1605904593 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_four\project four\auditorium.cpp
+	"Auditorium.h"
+
+1605889130 c:\users\gerun\desktop\andrew\programs\cs2337\project_four\project four\auditorium.h
+	"Node.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cmath>
+
+1602524996 c:\users\gerun\desktop\andrew\programs\cs2337\project_four\project four\node.h
+	"Seat.h"
+
+1602524995 c:\users\gerun\desktop\andrew\programs\cs2337\project_four\project four\seat.h
+
+1605908735 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_four\project four\hashmap.cpp
+	"Hashmap.h"
+
+1605911216 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_four\project four\main.cpp
+	<iostream>
+	"Auditorium.h"
+	"Hashmap.h"
+	<ctype.h>
+
+1602524994 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_four\project four\seat.cpp
+
+1605907787 c:\users\gerun\desktop\andrew\programs\cs2337\project_four\project four\hashmap.h
+	<math.h>
+	<string>
+	<vector>
+	<iostream>
+	"Seat.h"
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1602523279 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_two\project two\auditorium.cpp
+	"Auditorium.h"
+
+1602525333 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_two\project two\main.cpp
+	<iostream>
+	"Auditorium.h"
+	<ctype.h>
+
+1601899458 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_two\project two\seat.cpp
+
+1601909340 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_two\project two\node.cpp
+
+1601909336 c:\users\gerun\desktop\andrew\programs\cs2337\project_two\project two\node.h
+	"Seat.h"
+
+1601900021 c:\users\gerun\desktop\andrew\programs\cs2337\project_two\project two\seat.h
+
+1602522356 c:\users\gerun\desktop\andrew\programs\cs2337\project_two\project two\auditorium.h
+	"Node.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cmath>
+

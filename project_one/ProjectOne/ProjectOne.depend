@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1600523042 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_one\projectone\main.cpp
+	<iostream>
+	<fstream>
+	"Gold.h"
+	"Platinum.h"
+	<cmath>
+	<sstream>
+	<iomanip>
+
+1599854272 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_one\projectone\platinum.cpp
+	"Platinum.h"
+
+1599946904 c:\users\gerun\desktop\andrew\programs\cs2337\project_one\projectone\platinum.h
+	"Customer.h"
+
+1599946820 c:\users\gerun\desktop\andrew\programs\cs2337\project_one\projectone\customer.h
+	<string>
+
+1599854270 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_one\projectone\customer.cpp
+	"Customer.h"
+
+1599946900 c:\users\gerun\desktop\andrew\programs\cs2337\project_one\projectone\gold.h
+	"Customer.h"
+
+1599924534 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_one\projectone\gold.cpp
+	"Gold.h"
+

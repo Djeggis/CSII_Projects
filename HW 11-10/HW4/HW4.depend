@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605056418 source:c:\users\gerun\desktop\andrew\programs\cs2337\hw 11-10\hw4\main.cpp
+	<iostream>
+	"HashTable.h"
+
+1605056892 source:c:\users\gerun\desktop\andrew\programs\cs2337\hw 11-10\hw4\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1605056424 c:\users\gerun\desktop\andrew\programs\cs2337\hw 11-10\hw4\hashtable.h
+

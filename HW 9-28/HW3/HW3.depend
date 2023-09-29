@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601354485 source:c:\users\gerun\desktop\andrew\programs\cs2337\hw 9-28\hw3\main.cpp
+	<iostream>
+	"VectorTemplate.h"
+	<vector>
+
+1601354532 c:\users\gerun\desktop\andrew\programs\cs2337\hw 9-28\hw3\vectortemplate.h
+	<vector>
+

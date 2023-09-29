@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1604028212 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_three\project 3\dvd.cpp
+	"DVD.h"
+
+1603493974 c:\users\gerun\desktop\andrew\programs\cs2337\project_three\project 3\dvd.h
+	<string>
+	<iostream>
+
+1604031586 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_three\project 3\main.cpp
+	<iostream>
+	<fstream>
+	"DVD.h"
+	"BSTree.h"
+	<sstream>
+	<iomanip>
+
+1604032210 c:\users\gerun\desktop\andrew\programs\cs2337\project_three\project 3\bstree.h
+	"Node.h"
+	<string>
+
+1603488480 c:\users\gerun\desktop\andrew\programs\cs2337\project_three\project 3\node.h
+

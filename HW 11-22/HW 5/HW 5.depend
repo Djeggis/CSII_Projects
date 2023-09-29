@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606108293 source:c:\users\gerun\desktop\andrew\programs\cs2337\hw 11-22\hw 5\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<vector>
+	<algorithm>
+

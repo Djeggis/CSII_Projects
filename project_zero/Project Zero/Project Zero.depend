@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598889822 source:c:\users\gerun\desktop\andrew\programs\cs2337\project_zero\project zero\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cmath>
+
